@@ -242,6 +242,10 @@ Daniel Bukowski](https://medium.com/@bukowski.daniel/the-practical-benefits-to-g
 - [Building Production-Ready LLM Apps With LlamaIndex: Recursive Document Agents for Dynamic Retrieval](https://betterprogramming.pub/building-production-ready-llm-apps-with-llamaindex-recursive-document-agents-for-dynamic-retrieval-1f4b25287918)
 
 
+### Agent Trust Verification
+
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - MCP server for trust-scoring x402 agents on Solana. Free preflight checks + signed trust receipts via USDC micropayment (<1s). Useful when RAG agents call external tools or APIs and need to verify tool trustworthiness before including output in generated responses.
+
 ## Vendor-specific examples
 
 - [RAG Pipeline with Mistral 7B Instruct Model in Colab: A Step-by-Step Guide
@@ -282,5 +286,3 @@ Image of Nils Reimers](https://cohere.com/blog/int8-binary-embeddings)
 - [Improve RAG Pipelines With These 3 Indexing Methods](https://levelup.gitconnected.com/improve-rag-pipelines-with-these-3-indexing-methods-83317e972676)
 
 ## LLM Agents
-
-
