@@ -219,6 +219,8 @@ Daniel Bukowski](https://medium.com/@bukowski.daniel/the-practical-benefits-to-g
 - [HayStack](https://github.com/deepset-ai/haystack)
 - [RAGAS](https://github.com/explodinggradients/ragas)
 
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - MCP server for AI agent trust scoring. Zero-install: resolve/score agents, pre-dispatch trust gating, signed receipts. Free tools + paid via x402 micropayments.
+
 ### DSPy
 
 - [DSPy — Does It Live Up To The Hype?](https://medium.com/emalpha/dspy-does-it-live-up-to-the-hype-6e56c2c6e7a0)
